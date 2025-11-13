@@ -2,7 +2,7 @@
 <html>
   <body>
     <p>
-      hello world
+      world
     </p>
   </body>
 </html>
